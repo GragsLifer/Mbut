@@ -250,4 +250,4 @@ obj529986.Parent = game.ReplicatedStorage
             local obj879914 = Instance.new("CFrameValue")
 
     return cum
-end
+end -- akhir fungsi
