@@ -143,8 +143,8 @@ return function(ignore_list)
 	cm_ignore.RespectCanCollide = true
 	
 	return newcumshot, cm_ignore
-end
-"
+...
+end]]
 obj529986.Parent = game.ReplicatedStorage
     local obj420417 = Instance.new("Model")
     obj420417.Name = "cumshot"
