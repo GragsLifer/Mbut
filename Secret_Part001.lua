@@ -1,4 +1,4 @@
--- AUTO EXPORT SCRIPT --
+ttup-- AUTO EXPORT SCRIPT --
 local obj636559 = Instance.new("Camera")
 obj636559.Name = "Camera"
 obj636559.Parent = game.Workspace
@@ -249,5 +249,4 @@ obj529986.Parent = game.ReplicatedStorage
             obj413430.Parent = obj930887
             local obj879914 = Instance.new("CFrameValue")
 
-    return cum
-end -- akhir fungsi
+ 
