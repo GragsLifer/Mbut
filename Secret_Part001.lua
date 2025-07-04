@@ -1,4 +1,4 @@
-ttup-- AUTO EXPORT SCRIPT --
+-- AUTO EXPORT SCRIPT --
 local obj636559 = Instance.new("Camera")
 obj636559.Name = "Camera"
 obj636559.Parent = game.Workspace
