@@ -1,16 +1,4 @@
-000000298023224, 0.20000000298023224, 0.20000000298023224)
-            obj820011.Position = Vector3.new(-6.141685485839844, -16.802505493164062, -46.40629577636719)
-            obj820011.Anchored = true
-            obj820011.BrickColor = BrickColor.new("Institutional white")
-            obj820011.Parent = obj529524
-                local obj786665 = Instance.new("SpecialMesh")
-                obj786665.Name = "Mesh"
-                obj786665.Parent = obj820011
-                local obj392279 = Instance.new("Attachment")
-                obj392279.Name = "hit"
-                obj392279.Parent = obj820011
-                    local obj633514 = Instance.new("ParticleEmitter")
-                    obj633514.Name = "prt"
+obj633514.Name = "prt"
                     obj633514.Parent = obj392279
         local obj983412 = Instance.new("Part")
         obj983412.Name = "face"
@@ -184,4 +172,20 @@
             local obj827118 = Instance.new("SpecialMesh")
             obj827118.Name = "SpecialMesh"
             obj827118.Parent = obj357972
- 
+            local obj642030 = Instance.new("StringValue")
+            obj642030.Name = "AvatarPartScaleType"
+            obj642030.Parent = obj357972
+            local obj694624 = Instance.new("Attachment")
+            obj694624.Name = "HairAttachment"
+            obj694624.Parent = obj357972
+            local obj391354 = Instance.new("Vector3Value")
+            obj391354.Name = "OriginalSize"
+            obj391354.Parent = obj357972
+            local obj665908 = Instance.new("Weld")
+            obj665908.Name = "AccessoryWeld"
+            obj665908.Parent = obj357972
+        local obj863025 = Instance.new("Part")
+        obj863025.Name = "HAT_"
+        obj863025.Size = Vector3.new(1, 1, 1)
+        obj863025.Position = Vector3.new(-6.1394267082214355, -14.443338394165039, -45.43492126464844)
+        obj863025.Anchored = false
