@@ -248,5 +248,4 @@ obj529986.Parent = game.ReplicatedStorage
             obj413430.Name = "Bone.001_Original"
             obj413430.Parent = obj930887
             local obj879914 = Instance.new("CFrameValue")
-
- 
+            obj879914.Name = "Bone.001_Initial
